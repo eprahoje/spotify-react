@@ -10,6 +10,15 @@
 
 Um site clone do Spotify desenvolvido com as principais linguagens Front-End do mercado. Desenvolvido com fins de estudo na primeira Imersão Front-End de 2024 da Alura.
 
+## ⌨️ API
+Foi criada uma API local em um arquivo .JSON (api-artists) com alguns artistas para testar a barra de pesquisa. 
+<ul>
+  <li>Iniciando a API local</li>
+</ul>
+<img alt="Comando e resultado para iniciar a API Local" src="https://github.com/eprahoje/spotify-react/assets/143037296/9224c167-f8fb-4a09-bfaa-f702489b1fb9">
+
+
+
 ## 🧰 Técnicas e tecnologias Utilizadas:
 * `HTML`
 * `CSS`
